@@ -6,7 +6,7 @@ public class AverageAge {
     {
         double avg = 0;
         double sum = 0;
-
+        //
         try {
             //Write the logic
             for(int i = 0;i< ageRawData.length;i++){
